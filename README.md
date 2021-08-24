@@ -10,7 +10,7 @@ This program was written in the Jack language for project 9 in the nand2tetris c
 # Installation:
 Download the software suite from nand2tetris. The compiler and emulator are required as Jack programs run on the Hack hardware platform.
 
-# Build & Execution:
+# Execution:
 1. Use VMEmulator to run complied VM code. Choose the directory containing the vm files.
 
 2. Click yes in the confirmationg dialog In the toolbar, choose No animation in the Animate dropdown
