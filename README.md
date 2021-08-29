@@ -19,6 +19,6 @@ Download the software suite from nand2tetris. The compiler and emulator are requ
 
 # Demo:
 
-![snake](https://user-images.githubusercontent.com/86181976/131263365-0717b015-e0f1-46c2-82e8-925663ce6855.gif)
+![snake-game-demo](https://user-images.githubusercontent.com/86181976/131263586-df3e2b86-57f5-4397-99a3-0dbf5891cbdf.gif)
 
 Have Fun!!
